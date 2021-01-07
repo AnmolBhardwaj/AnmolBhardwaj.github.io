@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/my-app/static/js/main.bd0a3a1b.chunk.js",
-    "main.js.map": "/my-app/static/js/main.bd0a3a1b.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.2a6231cc.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.2a6231cc.js.map",
-    "static/js/2.08c2ade9.chunk.js": "/my-app/static/js/2.08c2ade9.chunk.js",
-    "static/js/2.08c2ade9.chunk.js.map": "/my-app/static/js/2.08c2ade9.chunk.js.map",
-    "static/js/3.910adc66.chunk.js": "/my-app/static/js/3.910adc66.chunk.js",
-    "static/js/3.910adc66.chunk.js.map": "/my-app/static/js/3.910adc66.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/my-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.08c2ade9.chunk.js.LICENSE.txt": "/my-app/static/js/2.08c2ade9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/AnmolBhardwaj.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/AnmolBhardwaj.github.io/static/js/main.bd0a3a1b.chunk.js",
+    "main.js.map": "/AnmolBhardwaj.github.io/static/js/main.bd0a3a1b.chunk.js.map",
+    "runtime-main.js": "/AnmolBhardwaj.github.io/static/js/runtime-main.3d184f00.js",
+    "runtime-main.js.map": "/AnmolBhardwaj.github.io/static/js/runtime-main.3d184f00.js.map",
+    "static/js/2.08c2ade9.chunk.js": "/AnmolBhardwaj.github.io/static/js/2.08c2ade9.chunk.js",
+    "static/js/2.08c2ade9.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/2.08c2ade9.chunk.js.map",
+    "static/js/3.910adc66.chunk.js": "/AnmolBhardwaj.github.io/static/js/3.910adc66.chunk.js",
+    "static/js/3.910adc66.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/3.910adc66.chunk.js.map",
+    "index.html": "/AnmolBhardwaj.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/AnmolBhardwaj.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.08c2ade9.chunk.js.LICENSE.txt": "/AnmolBhardwaj.github.io/static/js/2.08c2ade9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AnmolBhardwaj.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a6231cc.js",
+    "static/js/runtime-main.3d184f00.js",
     "static/js/2.08c2ade9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.bd0a3a1b.chunk.js"
