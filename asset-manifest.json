@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/AnmolBhardwaj.github.io/static/css/main.4bdf8732.chunk.css",
-    "main.js": "/AnmolBhardwaj.github.io/static/js/main.faffdb16.chunk.js",
-    "main.js.map": "/AnmolBhardwaj.github.io/static/js/main.faffdb16.chunk.js.map",
-    "runtime-main.js": "/AnmolBhardwaj.github.io/static/js/runtime-main.511f616b.js",
-    "runtime-main.js.map": "/AnmolBhardwaj.github.io/static/js/runtime-main.511f616b.js.map",
+    "main.css": "/AnmolBhardwaj.github.io/static/css/main.3ee18354.chunk.css",
+    "main.js": "/AnmolBhardwaj.github.io/static/js/main.896b09c2.chunk.js",
+    "main.js.map": "/AnmolBhardwaj.github.io/static/js/main.896b09c2.chunk.js.map",
+    "runtime-main.js": "/AnmolBhardwaj.github.io/static/js/runtime-main.991eb62e.js",
+    "runtime-main.js.map": "/AnmolBhardwaj.github.io/static/js/runtime-main.991eb62e.js.map",
     "static/css/2.d65fdcc0.chunk.css": "/AnmolBhardwaj.github.io/static/css/2.d65fdcc0.chunk.css",
-    "static/js/2.20b4aa93.chunk.js": "/AnmolBhardwaj.github.io/static/js/2.20b4aa93.chunk.js",
-    "static/js/2.20b4aa93.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/2.20b4aa93.chunk.js.map",
-    "static/js/3.412652bc.chunk.js": "/AnmolBhardwaj.github.io/static/js/3.412652bc.chunk.js",
-    "static/js/3.412652bc.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/3.412652bc.chunk.js.map",
+    "static/js/2.cbc38b1a.chunk.js": "/AnmolBhardwaj.github.io/static/js/2.cbc38b1a.chunk.js",
+    "static/js/2.cbc38b1a.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/2.cbc38b1a.chunk.js.map",
+    "static/js/3.b64194b1.chunk.js": "/AnmolBhardwaj.github.io/static/js/3.b64194b1.chunk.js",
+    "static/js/3.b64194b1.chunk.js.map": "/AnmolBhardwaj.github.io/static/js/3.b64194b1.chunk.js.map",
     "index.html": "/AnmolBhardwaj.github.io/index.html",
     "static/css/2.d65fdcc0.chunk.css.map": "/AnmolBhardwaj.github.io/static/css/2.d65fdcc0.chunk.css.map",
-    "static/css/main.4bdf8732.chunk.css.map": "/AnmolBhardwaj.github.io/static/css/main.4bdf8732.chunk.css.map",
-    "static/js/2.20b4aa93.chunk.js.LICENSE.txt": "/AnmolBhardwaj.github.io/static/js/2.20b4aa93.chunk.js.LICENSE.txt",
+    "static/css/main.3ee18354.chunk.css.map": "/AnmolBhardwaj.github.io/static/css/main.3ee18354.chunk.css.map",
+    "static/js/2.cbc38b1a.chunk.js.LICENSE.txt": "/AnmolBhardwaj.github.io/static/js/2.cbc38b1a.chunk.js.LICENSE.txt",
     "static/media/BG.2d921fa1.png": "/AnmolBhardwaj.github.io/static/media/BG.2d921fa1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.511f616b.js",
+    "static/js/runtime-main.991eb62e.js",
     "static/css/2.d65fdcc0.chunk.css",
-    "static/js/2.20b4aa93.chunk.js",
-    "static/css/main.4bdf8732.chunk.css",
-    "static/js/main.faffdb16.chunk.js"
+    "static/js/2.cbc38b1a.chunk.js",
+    "static/css/main.3ee18354.chunk.css",
+    "static/js/main.896b09c2.chunk.js"
   ]
 }
